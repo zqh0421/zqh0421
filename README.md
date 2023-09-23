@@ -5,7 +5,8 @@ My research interest mainly focuses on Human-AI Collaboration, Intelligent User 
 
 - 📫 How to reach me: chloezqh0421@gmail.com | qzhao3@nd.edu
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: My MBTI is ENFP. Keenly perceptive about people. Empathetic, Energetic, forever in tune, always ready to explore something new soon!
+- ⚡ Fun fact: Living with my pet🐱, who is a 5-year-old cute girl named 脸脸 (which means cute face).
+- ⚡ Briefly describe my personality: Empathetic, Energetic, forever in tune, always ready to explore something new soon!
 
 ### Portfolio
 
