@@ -9,7 +9,7 @@ My research interest mainly focuses on Human-AI Collaboration, Intelligent User 
 
 ### Portfolio
 
-Have a look of my personal website built with React & Astro ![here](https://zqh0421.github.io).
+Have a look of my personal website built with React & Astro [here](https://zqh0421.github.io).
 
 ### Stats
 
