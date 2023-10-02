@@ -14,7 +14,7 @@ Have a look at my personal website built with React & Astro [here](https://zqh04
 
 ### Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=zqh0421&hide_rank=false&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=zqh0421&hide_rank=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqh0421&theme=graywhite&hide_border=true&count_private=true&hide=css,html&layout=compact">
 <!--
 **zqh0421/zqh0421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
