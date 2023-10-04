@@ -4,9 +4,9 @@ a final year undergraduate student hoping to engage in Human-Computer Interactio
 My research interest mainly focuses on Human-AI Collaboration, Intelligent User Interface, Human-Centered AI and User Experience.
 
 - 📫 How to reach me: chloezqh0421@gmail.com | qzhao3@nd.edu
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Living with my pet🐱, a 5-year-old cute girl named 脸脸 (which means cute face).
-- ⚡ Briefly describe my personality: Empathetic, Energetic, forever in tune, always ready to explore something new soon!
+- 😄 Pronouns: she/her/they/them
+- ⚡️ Fun fact: Living with my pet🐱, a 5-year-old cute girl named 脸脸 (which means cute face).
+- 🌈 Briefly describe my personality: Empathetic, Energetic, forever in tune, always ready to explore something new soon!
 
 ### Portfolio
 
