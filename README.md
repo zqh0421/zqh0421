@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Qianhui (Chloe),
 
-a final year undergraduate student hoping to engage in Human-Computer Interaction area, currently based in Beijing, China.
-My research interest mainly focuses on Human-AI Collaboration, Intelligent User Interface, Human-Centered AI and User Experience.
+a final year undergraduate student hoping to engage in Human-Computer Interaction area, currently based in Pittburgh, PA, United States.
+My research interest mainly focuses on Human-AI Collaboration, Educational Technolgoies, Intelligent User Interface, Human-Centered AI and User Experience.
 
 - 📫 How to reach me: qianhui.zhao.qd@gmail.com | qianhuiz@cs.cmu.edu
 - 😄 Pronouns: she/her/they/them
